@@ -32,7 +32,7 @@ At **KBENETZ**, we harness cutting-edge AI technologies to revolutionize Radio F
 
 Explore our repositories, where we share open-source tools, research implementations, and frameworks related to AI/ML, IoT, and embedded systems:
 
-- **[AI Circuit Optimizer](#)**: A AI-powered tool for automating analog circuit tuning.
+- **[AI Circuit Optimizer](#)**: An AI-powered tool for automating analog circuit tuning.
 - **More projects available at** [KBENETZ](https://kbenetz.com/).
 
 ---
