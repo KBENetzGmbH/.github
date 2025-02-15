@@ -1,3 +1,4 @@
+![logo](https://github.com/KBENetzGmbH/.github/blob/main/profile/KBENETZ_Logo.png)
 # **KBENETZ – Pioneering AI-Powered IC Design Engineering Solutions**
 
 🚀 Welcome to **KBENETZ**! We are a team of ASIC and AI design experts dedicated to integrating Artificial Intelligence into technology, specializing in AI/ML solutions for analog circuits, IoT-based applications, and advanced research projects.
