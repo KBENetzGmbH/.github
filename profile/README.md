@@ -1,4 +1,7 @@
-![logo](https://github.com/KBENetzGmbH/.github/blob/main/profile/KBENETZ_Logo.png)
+<p align="center">
+  <img src="https://github.com/KBENetzGmbH/.github/blob/main/profile/KBENETZ_Logo.png" alt="KBENETZ Logo" width="300"/>
+</p>
+
 # **KBENETZ – Pioneering AI-Powered IC Design Engineering Solutions**
 
 🚀 Welcome to **KBENETZ**! We are a team of ASIC and AI design experts dedicated to integrating Artificial Intelligence into technology, specializing in AI/ML solutions for analog circuits, IoT-based applications, and advanced research projects.
@@ -46,18 +49,15 @@ We welcome collaborators, researchers, and developers to contribute to our proje
 
 ## **Contact Us**
 
-📧 **Email**: [info@kbenetz.com](mailto:info@kbenetz.com)
-
-🌐 **Website**: [https://kbenetz.com/](https://kbenetz.com/)
-
-👥 **LinkedIn**: [KBENETZ LinkedIn](#)
-
-🔗 **Twitter**: [@KBENETZ](#)
+📧 **Email**: [info@kbenetz.com](mailto:info@kbenetz.com)  
+🌐 **Website**: [https://kbenetz.com/](https://kbenetz.com/)  
+👥 **LinkedIn**: [KBENETZ LinkedIn](#)  
+🔗 **Twitter**: [@KBENETZ](#)  
 
 ### **Office Locations:**
 
-- **Germany**: Lixstraße 14, 89134 Blaustein, Germany
-- **United Kingdom**: 2 Drove Hill, Cumbernauld, UK
-- **Pakistan**: House No. C13, Chapal Sun City, Gulzar-e-Hijri Scheme 33, Karachi, Pakistan
+- **Germany**: Lixstraße 14, 89134 Blaustein, Germany  
+- **United Kingdom**: 2 Drove Hill, Cumbernauld, UK  
+- **Pakistan**: House No. C13, Chapal Sun City, Gulzar-e-Hijri Scheme 33, Karachi, Pakistan  
 
 ---
